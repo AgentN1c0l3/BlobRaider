@@ -3,7 +3,7 @@ Public Blob Exfiltration Using Google Dorking.
 
 Welcome to the Public Blob Exfiltration tool! This script allows you to search for and download publicly accessible blobs from Microsoft Azure Storage accounts using Google Dorking techniques.
 
-````
+```
 -------------------------------------------------------------
 ______ _       _    ______      _     _           
 | ___ \ |     | |   | ___ \    (_)   | |          
