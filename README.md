@@ -25,4 +25,4 @@ Google Dorking: Automatically searches for public blobs using custom Google sear
 
 Blob Downloading: Downloads files from discovered public blob URLs.
 
-Cleanup Option: Provides an option to delete downloaded files and restore the environment.
+
